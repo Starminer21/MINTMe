@@ -1,4 +1,5 @@
 # MINTMe
+FOLLOW ME GO TO https://github.com/mintme-com/miner/releases
 How to make minning mintme
 In order to mine on this pool you need to execute Mintme.com-coin-miner with the following parameters:
 -o pool.webchain.network:3333 -u <address> -p x
